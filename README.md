@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @ZeroFairy
-- 👀 I’m interested in Sleeping
-- 📫 How to reach me  => "Just don't"
-- 😄 Pronouns: Themmmmmm 😋 , Of Course, is ... 🙄 Guess it you're self
-- ⚡ Fun fact: I'm very like sleeping 😴
+👋 Hello, I’m @ZeroFairy
+
+🌙 I’m deeply passionate about resting, napping, and the art of peaceful sleep.
+
+📫 Reach me: Sure, but Let’s keep things quiet — I like calm environments 😌
+
+😄 Pronouns: (feel free to guess)
+
+⚡ Fun fact: I recharge faster than any power bank.
 
 <!---
 ZeroFairy/ZeroFairy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
